@@ -79,7 +79,7 @@ public class Login_S extends JFrame {
 		txtUser.setColumns(10);
 
 		txtPassword = new JPasswordField();
-		txtPassword.setBounds(166, 137, 114, 19);
+		txtPassword.setBounds(166, 135, 114, 19);
 		frame.getContentPane().add(txtPassword);
 
 		JButton btnLogin = new JButton("Login");
